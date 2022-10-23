@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CarlosPons_Nombres_Primers</string>
+    <string name="es">ES</string>
+    <string name="ca">CAT</string>
+    <string name="en">EN</string>
+    <string name="calculatorDes_es">Calculadora de números primos según la posición indicada</string>
+    <string name="numToEnter_es">Posición del número primo</string>
+    <string name="numFound">0</string>
+    <string name="calculate_es">CALCULAR</string>
+    <string name="NumInsert">0</string>
+    <string name="calculatorDes_en">"Prime number calculator according to the indicated position "</string>
+    <string name="numToEnter_en">Position of the prime number</string>
+    <string name="calculate_en">CALCULATE</string>
+    <string name="calculatorDes_ca">Calculadora de nombres primers segons la posició indicada</string>
+    <string name="numToEnter_ca">Posició del número primer</string>
+    <string name="calculate_ca">CALCULAR</string>
+</resources>
